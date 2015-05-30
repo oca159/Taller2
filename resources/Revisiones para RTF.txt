@@ -1,0 +1,25 @@
+Cambia vista a los campos faltantes y el de registrar
+
+Codigo
+numero de ejemplares
+titulo
+autor
+numero de paginas
+disponibles
+editorial
+edicion
+idioma
+descripcion
+
+Boton: Registrar Libro
+
+Mensaje para alert: Libro agregado satisfactoriamente
+Agregar boton de cancelar libros
+
+----- Actualizar
+
+Cambiar de Actualizar a guardar
+Mensaje: Cambios guardados satisfactoriamente!
+
+Problema al editar un libro, rompe con la integridad de la base el modificar los campos no_ejemplares y disponibles
+si el libro esta en préstamo.
